@@ -1,0 +1,60 @@
+import {
+  SiHtml5,
+  SiCss3,
+  SiJavascript,
+  SiBootstrap,
+  SiReact,
+  SiReactrouter,
+  SiNodedotjs,
+  SiMongodb,
+  SiTailwindcss,
+} from 'react-icons/si';
+
+const data = [
+  {
+    id: '1',
+    title: '',
+    subTitle: '',
+    description: '',
+    tech: [SiHtml5, SiCss3, SiJavascript, SiBootstrap, SiReact, SiReactrouter],
+    image: '',
+    link: '',
+    frontEnd: '',
+    backEnd: '',
+  },
+  {
+    id: '2',
+    title: '',
+    subTitle: '',
+    description: '',
+    tech: [],
+    image: '',
+    link: '',
+    frontEnd: '',
+    backEnd: '',
+  },
+  {
+    id: '3',
+    title: '',
+    subTitle: '',
+    description: '',
+    tech: [],
+    image: '',
+    link: '',
+    frontEnd: '',
+    backEnd: '',
+  },
+  {
+    id: '4',
+    title: '',
+    subTitle: '',
+    description: '',
+    tech: [],
+    image: '',
+    link: '',
+    frontEnd: '',
+    backEnd: '',
+  },
+];
+
+export default data;
